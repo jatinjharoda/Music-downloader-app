@@ -1,0 +1,14 @@
+{
+  "name": "MediaFlow",
+  "description": "A powerful media downloader and converter for YouTube and other platforms. Search, download, and organize your favorite content for offline playback.",
+  "requestFramePermissions": [
+    "notifications",
+    "clipboard-read"
+  ],
+  "majorCapabilities": [
+    "Media Downloading",
+    "Video Conversion",
+    "Playlist Management",
+    "Offline Playback"
+  ]
+}
